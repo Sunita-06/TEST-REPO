@@ -1,2 +1,2 @@
 # TEST-REPO
-COLOR WEBSITE
+A test repository
